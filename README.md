@@ -8,7 +8,7 @@
 
 ***
 
-C++ Webview2 , Window RAG Qdrant OpenRouter
+C++ Webview2 , Windows RAG Qdrant OpenRouter
 
 * OpenRouter
 * LLVM CLang
